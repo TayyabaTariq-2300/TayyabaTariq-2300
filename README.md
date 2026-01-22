@@ -1,9 +1,9 @@
-<h1 align="center">Assalam U Alaikum👋, I'm Tayyaba Tariq</h1>
-<h3 align="center">An NLP enthusiast from Pakistan</h3>
+<h1 align="center">Assalam U Alaikum, I'm Tayyaba Tariq</h1>
+<h3 align="center">AI/ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tayyabatariq-2300&label=Profile%20views&color=0e75b6&style=flat" alt="tayyabatariq-2300" /> </p>
 
-- 🌱 I’m currently learning **Natural Language Processing**
+- 🌱 I’m currently learning **Computer Vision**
 
 - 📫 How to reach me **tayyabat022@gmail.com**
 
